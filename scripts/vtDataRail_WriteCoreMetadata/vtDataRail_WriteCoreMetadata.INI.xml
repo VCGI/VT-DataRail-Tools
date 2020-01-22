@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<SETTINGS>
+   <SETTING name="abstract">
+   </SETTING>
+   <SETTING name="poc_org">
+   </SETTING>
+   <SETTING name="poc_individual">
+   </SETTING>
+   <SETTING name="poc_role">
+   </SETTING>
+   <SETTING name="topics">
+   </SETTING>
+   <SETTING name="extent_xmin">
+   </SETTING>
+   <SETTING name="extent_ymin">
+   </SETTING>
+   <SETTING name="extent_xmax">
+   </SETTING>
+   <SETTING name="extent_ymax">
+   </SETTING>
+</SETTINGS>
